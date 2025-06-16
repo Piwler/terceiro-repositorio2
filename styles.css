@@ -86,8 +86,8 @@ body{
 }
 
 .parametro-senha-botoes {
-display:flex;
-justify-content: center;
+   display:flex;
+   justify-content: center;
 }
 
 .parametro-senha-botoes{
